@@ -1,0 +1,15 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+  background-color: blue;
+  width: 100vw;
+  height: 100vh;
+}
+.right-side {
+  width: 50%;
+  background-color: aliceblue;
+}
+.left-side {
+  width: 50%;
+  background-color: aqua;
+}
